@@ -5,8 +5,7 @@ Welcome to my Resume repository.
 ## 📄 Resume
 
 You can view or download my latest resume here:
-
-- 📑 [Shubham Resume]("C:\Users\Yogesh\OneDrive\Pictures\Documents\Desktop\MYRESUME.pdf")
+- 📑 [Shubham Resume](./resume/MYRESUME.pdf)
 
 ## 👨‍💻 About Me
 
